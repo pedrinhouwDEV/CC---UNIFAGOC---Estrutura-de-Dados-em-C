@@ -15,6 +15,8 @@ Tecnologias
 Certifique-se de ter um compilador C instalado (como o GCC) e execute os comandos no terminal:
 
 ```bash
+#Entre na pasta de atividades
+cd Arvore-de-produtos
 # Compilar
 gcc main.c -o programa
 
