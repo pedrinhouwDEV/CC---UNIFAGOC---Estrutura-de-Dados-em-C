@@ -14,11 +14,13 @@ Tecnologias
 --- Como compilar e executar
 Certifique-se de ter um compilador C instalado (como o GCC) e execute os comandos no terminal:
 
-```bash
-#Entre na pasta de atividades
-cd Arvore-de-produtos
+# Entre na pasta da atividade desejada
+
 # Compilar
 gcc main.c -o programa
 
-# Executar
+# Executar no Windows
+.\programa.exe 
+
+# Executar no Linux
 ./programa
